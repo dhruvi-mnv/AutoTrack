@@ -104,7 +104,7 @@ AutoTrack/
 
 ![Main Window](images/home.png)
 
-### Vehicle Display
+### Exsiting Vehicles
 
 ![Vehicle Display](images/exsiting-entries.png)
 
