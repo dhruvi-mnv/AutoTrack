@@ -183,7 +183,7 @@ Through this project, I gained practical experience with:
 Dhruvi Jariwala
 
 GitHub:
-[GITHUB-LINK](https://github.com/dhruvi-mnv/)
+[GITHUB](https://github.com/dhruvi-mnv/)
 
 LinkedIn:
-[LINKEDIN-LINK](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/)
+[LINKEDIN](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/)
